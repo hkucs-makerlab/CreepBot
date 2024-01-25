@@ -1,0 +1,5 @@
+dev: /dev/input/js0 
+port : /dev/rfcomm2
+#video_stream_provider : "http://192.168.98.191/mjpeg"
+#video_stream_provider : "http://192.168.98.228/mjpeg"
+video_stream_provider : "http://192.168.10.228/mjpeg"

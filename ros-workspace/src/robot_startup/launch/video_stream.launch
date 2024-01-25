@@ -1,0 +1,14 @@
+<launch>    
+    <node pkg="video_stream_opencv"
+        name="video_stream"
+        type="video_stream" output="screen">
+        <remap from="image_raw" to="image" />
+	    <rosparam>fps: 20</rosparam>
+        <!-- <env name="ROS_IP" value="$(arg ip)"/>  -->
+        <rosparam command="load" file="$(find robot_startup)/config/parameters.yaml" />
+    </node>
+    
+    <node pkg="image_view"
+        name="image_view"
+        type="image_view" />    
+</launch>

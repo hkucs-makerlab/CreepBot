@@ -1,0 +1,7 @@
+<launch>
+    <arg name="video" default="no"/>
+    <group if="$(eval video == 'yes')">
+        <include file="$(find robot_startup)/launch/video_stream.launch"></include>
+    </group>
+    <include file="$(find robot_startup)/launch/creepbot.launch"></include>
+</launch>
