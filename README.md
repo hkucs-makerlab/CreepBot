@@ -13,7 +13,7 @@ Download [AVRDUDESS](https://blog.zakkemble.net/avrdudess-a-gui-for-avrdude/) to
 
 ## Components
 <ol>
-  <li>[HuaDuino](https://youtu.be/woJ8mIrGqf4?si=4_YU_JZL80stXMVt) - Arduino Nano Compatible Board with Lithium Battery Power Up & Charging</li>
+  <li><a href="https://youtu.be/woJ8mIrGqf4?si=4_YU_JZL80stXMVt" target=_blank>HuaDuino</a> - Arduino Nano Compatible Board with Lithium Battery Power Up & Charging</li>
   <li>8 x MG90s servos</li>
   <li>HC-SR04 Ultrasonic sesnor</li>
   <li>HC-04/05 Bluetooth SPP module or compatibles, set baud rate to 38400
