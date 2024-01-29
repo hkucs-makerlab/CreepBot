@@ -22,3 +22,7 @@ Download [AVRDUDESS](https://blog.zakkemble.net/avrdudess-a-gui-for-avrdude/) to
   <li>18650 lithium battery with x2.54 connector</li>
   <li>Some M2x6/M2x10 tapping screws</li>
 </ol>
+
+## Video of How to Make a CreepBot
+
+[![how to make a creepbot](https://img.youtube.com/vi/LDjwKNZhbA8/0.jpg)](https://www.youtube.com/watch?v=LDjwKNZhbA8)
