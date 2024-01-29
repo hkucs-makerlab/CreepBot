@@ -5,6 +5,9 @@ CreepBot - 3D Printed Mini Quadruped Robot For [ROS](https://ros.org/) Programmi
 
 ## Introduction
 
+CreepBot is a low cost 3D printed mini quadruped robot. The firmware implements ROSSerial protocol to publish and subscribe topics 
+to support ROS framework. It is designed and intended for students to practice writing ROS packages.
+
 ## Firmware
 
 Download [AVRDUDESS](https://blog.zakkemble.net/avrdudess-a-gui-for-avrdude/) to upload firmware
