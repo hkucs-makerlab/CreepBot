@@ -11,7 +11,7 @@ Download [AVRDUDESS](https://blog.zakkemble.net/avrdudess-a-gui-for-avrdude/) to
 
 <img src="wiki/AVRDUDESS-2.4.png" width="400">
 
-## Components
+## Electronic Components
 <ol>
   <li><a href="https://youtu.be/woJ8mIrGqf4?si=4_YU_JZL80stXMVt" target=_blank>HuaDuino</a> - Arduino Nano Compatible Board with Lithium Battery Power Up & Charging</li>
   <li>8 x MG90s servos</li>
