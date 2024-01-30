@@ -33,6 +33,7 @@ Download [AVRDUDESS](https://blog.zakkemble.net/avrdudess-a-gui-for-avrdude/) to
   <ol>
     <li>ESP32cam</li>
     <li>Some dupoint wires</li>
+    <li>firmware - https://github.com/sunfounder/ai-camera-firmware</li>
   </ol>
 
 ## Video of How to Make a CreepBot
