@@ -35,7 +35,10 @@ Download [AVRDUDESS](https://blog.zakkemble.net/avrdudess-a-gui-for-avrdude/) to
   </ol>
 
 ## Video of How to Make a CreepBot
-
+### Camera Head Version
 [![how to make a creepbot](https://img.youtube.com/vi/wkgwL2prcCM/0.jpg)](https://www.youtube.com/watch?v=wkgwL2prcCM)
 
-[![how to make a creepbot](https://img.youtube.com/vi/PgKKCWNNcuk/0.jpg)](https://www.youtube.com/watch?v=PgKKCWNNcuk)
+[![creepbot demo](https://img.youtube.com/vi/PgKKCWNNcuk/0.jpg)](https://www.youtube.com/watch?v=PgKKCWNNcuk)
+
+### Ultrasonic Sensor Head Version
+[![how to make a creepbot](https://img.youtube.com/vi/LDjwKNZhbA8/0.jpg)](https://www.youtube.com/watch?v=LDjwKNZhbA8)
