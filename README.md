@@ -28,4 +28,4 @@ Download [AVRDUDESS](https://blog.zakkemble.net/avrdudess-a-gui-for-avrdude/) to
 
 ## Video of How to Make a CreepBot
 
-[![how to make a creepbot](https://img.youtube.com/vi/LDjwKNZhbA8/0.jpg)](https://www.youtube.com/watch?v=LDjwKNZhbA8)
+[![how to make a creepbot](https://img.youtube.com/vi/wkgwL2prcCM/0.jpg)](https://www.youtube.com/watch?v=wkgwL2prcCM)
