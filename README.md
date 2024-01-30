@@ -1,7 +1,7 @@
 # CreepBot
 CreepBot - 3D Printed Mini Quadruped Robot For [ROS](https://ros.org/) Programming Workshops
 
-<img src="wiki/creepbot1.png" width="400">
+<img src="wiki/creepbot2.png" width="400">
 
 ## Introduction
 
